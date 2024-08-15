@@ -4,7 +4,7 @@ import React from "react";
 
 export default function Navbar() {
   return (
-    <Box>
+    <Box sx={{ padding: "16px" }}>
       <Box
         sx={{
           display: "flex",
